@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.pt
+models/
+*.mp4
+*.avi
+data/test_videos/
+outputs/
+uploads/
+mlflow_data/
+.ipynb_checkpoints/
