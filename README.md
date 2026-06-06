@@ -1,4 +1,10 @@
-# Surveillance System - Real-Time Intelligent Monitoring
+# Surveillance System
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nour769/surveillance-system/blob/main/demo.ipynb)
+
+> Clique sur le bouton pour tester le projet directement dans ton navigateur - aucune installation requise !
+
+ - Real-Time Intelligent Monitoring
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
